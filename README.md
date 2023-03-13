@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzox004&count_bg=%2396D31D&title_bg=%23108239&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <h3 align="center">🤖 About Me 🤖</h3>
 <p align="center">
   <a href="https://sinkyu.notion.site/1f3a9f14bf0245ca90e7ca644d44a0e2"><img src="https://img.shields.io/badge/Profile-1F2E3E?style=flat-square&logo=Notion&logoColor=white&link=https://sinkyu.notion.site/1f3a9f14bf0245ca90e7ca644d44a0e2"/></a>&nbsp
@@ -18,15 +20,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zox004)](https://solved.ac/zox004/)
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=zox004&theme=merko&show_icons=true" width="49%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zox004&layout=compact&theme=merko" width="37%" />
 </a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zox004)](https://solved.ac/zox004/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zox004&theme=tokyonight)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zox004&theme=flat&column=7)](https://github.com/zox004/)
-
