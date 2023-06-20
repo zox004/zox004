@@ -24,10 +24,11 @@
   </a>
 </p>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=zox004&theme=merko&show_icons=true" width="49%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zox004&layout=compact&theme=merko" width="37%" />
-</a>
+<p align="center">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=zox004&theme=merko&show_icons=true" width="49%" /></a>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zox004&layout=compact&theme=merko" width="37%" /></a>
+</p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzox004&count_bg=%2396D31D&title_bg=%23108239&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
