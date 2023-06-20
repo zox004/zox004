@@ -18,7 +18,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zox004)](https://solved.ac/zox004/)
+<p align="center">
+  <a href="https://solved.ac/zox004/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zox004" />
+  </a>
+</p>
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=zox004&theme=merko&show_icons=true" width="49%" />
